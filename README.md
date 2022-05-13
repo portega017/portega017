@@ -19,3 +19,6 @@ Here are some ideas to get you started:
 
 # Top languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=portega017&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+
+![Pibol's GitHub stats](https://github-readme-stats.vercel.app/api?username=portega017&count_private=true)
