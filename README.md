@@ -48,4 +48,3 @@ Here are some ideas to get you started:
 
 <!--Visitor count<br>
   <img src="https://profile-counter.glitch.me/portega017/count.svg" />-->
-  ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)
