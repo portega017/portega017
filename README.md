@@ -17,8 +17,7 @@ Here are some ideas to get you started:
 
 ![3d_contribution](./profile-3d-contrib/profile-night-green.svg)
 
-# Top languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=portega017&layout=compact&theme=vision-friendly-dark&count_private=true&langs_count=8)](https://github.com/portega017) 
+ 
 
 ## Languages and Technologies
 
