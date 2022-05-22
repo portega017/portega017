@@ -46,5 +46,5 @@ Here are some ideas to get you started:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/pablo-ortega-arenas-66822120a/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3Bke8NsHzuQYawZXPf5%2FF1eg%3D%3D)
 [![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:p.ortegarenas@gmail.com)
 
-Visitor count<br>
-  <img src="https://profile-counter.glitch.me/portega017/count.svg" />
+<!--Visitor count<br>
+  <img src="https://profile-counter.glitch.me/portega017/count.svg" />-->
