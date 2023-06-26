@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![snake gif](https://github.com/portega017/portega017/blob/output/github-contribution-grid-snake.svg)
+![snake gif](github-contribution-grid-snake.svg)
 <!--![3d_contribution](./profile-3d-contrib/profile-night-green.svg)-->
 
  # Top languages
