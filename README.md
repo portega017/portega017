@@ -21,11 +21,11 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=portega017&layout=compact&theme=vision-friendly-dark&count_private=true&langs_count=100&hide_progress=true)](https://github.com/portega017)
 
 - <a href="https://app.hackthebox.com/profile/1209733" target="_blank" rel="noreferrer">
-        <img src="./content/htb.svg" alt="HackTheBox" width="20" height="20"/>
+        <img src="./images/htb.svg" alt="HackTheBox" width="20" height="20"/>
          My HackTheBox Profile
     </a>
 - <a href="https://tryhackme.com/p/Paabs" target="_blank" rel="noreferrer">
-        <img src="./content/thm.svg" alt="TryHackMe" width="20" height="20"/>
+        <img src="./images/thm.svg" alt="TryHackMe" width="20" height="20"/>
         My TryHackMe Profile
     </a>
 
