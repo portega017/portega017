@@ -50,7 +50,7 @@ Here are some ideas to get you started:
  
   </div>
   
-<img src="https://tryhackme-badges.s3.amazonaws.com/Paabs.png" alt="TryHackMe">
+<!--<img src="https://tryhackme-badges.s3.amazonaws.com/Paabs.png" alt="TryHackMe">-->
 
 ## Contact Me
 
