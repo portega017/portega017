@@ -40,7 +40,7 @@ Here are some ideas to get you started:
   
  
   </div>
-<script src="https://tryhackme.com/badge/2036983"> </script>
+  
 <img src="https://tryhackme-badges.s3.amazonaws.com/Paabs.png" alt="TryHackMe">
 
 ## Contact Me
