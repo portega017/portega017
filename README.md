@@ -44,6 +44,8 @@ Here are some ideas to get you started:
   <img align="center" heigth ="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img align="center" heigth ="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
   <img align="center" heigth ="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
+  <img align="center" heigth ="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" />
+  
   
   
   
@@ -55,7 +57,7 @@ Here are some ideas to get you started:
 ## Contact Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/pablo-ortega-arenas/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3Bke8NsHzuQYawZXPf5%2FF1eg%3D%3D)
-[![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:p.ortegarenas@gmail.com)
+[![Mail](https://img.shields.io/badge/email-red?style=for-the-badge&logo=Mail&logoColor=white)](mailto:developer@pibol.es)
 
 <!--Visitor count<br>
   <img src="https://profile-counter.glitch.me/portega017/count.svg" />-->
