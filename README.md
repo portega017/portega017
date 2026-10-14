@@ -4,7 +4,7 @@
 
 ### Linux · Cybersecurity · Software Development
 
-*Exploring systems. Learning continuously. Building useful things.*
+*Learning, experimenting and building*
 
 <br>
 
@@ -72,8 +72,6 @@ and building practical solutions.
   <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
 </a>
 
-<br><br>
 
-<sub>Learning, experimenting and building.</sub>
 
 </div>
