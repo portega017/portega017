@@ -1,63 +1,79 @@
-### Welcome to my GitHub Profile 👋
+<div align="center">
 
-<!--
-**portega017/portega017** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# `portega017`
 
-Here are some ideas to get you started:
+### Linux · Cybersecurity · Software Development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<!--![snake gif](https://github.com/portega017/portega017/blob/output/github-contribution-grid-snake.svg)-->
-<!--![3d_contribution](./profile-3d-contrib/profile-night-green.svg)-->
+*Exploring systems. Learning continuously. Building useful things.*
 
- # Top languages
+<br>
+
+![snake gif](https://github.com/portega017/portega017/blob/output/github-contribution-grid-snake.svg)
+
+
+<a href="https://github.com/portega017">
+  <img src="https://img.shields.io/badge/GitHub-portega017-181717?style=for-the-badge&logo=github" alt="GitHub">
+</a>
+
+</div>
+
+---
+
+## `whoami`
+
+Hi! I'm **Pablo Ortega**, a technology enthusiast interested in
+Linux, software development, infrastructure and cybersecurity.
+
+I enjoy exploring how systems work, learning new technologies
+and building practical solutions.
+
+## `tech stack`
+
+<div align="center">
+
+### Languages & Development
+
+<img src="https://skillicons.dev/icons?i=python,java,c,cpp,js,html,css,swift,bootstrap,nodejs&perline=8" alt="Development technologies">
+
+
+<br><br>
+
+### Systems & Tools
+
+<img src="https://skillicons.dev/icons?i=linux,docker,raspberrypi,mysql,git,github,vscode,wordpress,aws,postgresql&perline=7" alt="Systems and tools">
+
+### Top languages in my repos
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=portega017&layout=compact&theme=vision-friendly-dark&count_private=true&langs_count=100&hide_progress=true)](https://github.com/portega017)
+</div>
 
-- <a href="https://app.hackthebox.com/profile/1209733" target="_blank" rel="noreferrer">
-        <img src="./images/htb.svg" alt="HackTheBox" width="20" height="20"/>
-         My HackTheBox Profile
-    </a>
-- <a href="https://tryhackme.com/p/Paabs" target="_blank" rel="noreferrer">
-        <img src="./images/thm.svg" alt="TryHackMe" width="20" height="20"/>
-        My TryHackMe Profile
-    </a>
+## `cybersecurity`
 
-## Languages and Technologies
+<div align="center">
 
-<div style="display: incline_block"><cbr>
-  <img align="center" heigth ="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
-  <img align="center" heigth ="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/>
-  <img align="center" heigth ="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg"/>
-  <img align="center" heigth ="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
-  <img align="center" heigth ="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
-  <img align="center" heigth ="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-  <img align="center" heigth ="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-  <img align="center" heigth ="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-  <img align="center" heigth ="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-  <img align="center" heigth ="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img align="center" heigth ="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-  <img align="center" heigth ="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
-  <img align="center" heigth ="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" />
-  
-  
-  
-  
- 
-  </div>
-  
-<!--<img src="https://tryhackme-badges.s3.amazonaws.com/Paabs.png" alt="TryHackMe">-->
+<a href="https://app.hackthebox.com/profile/1209733">
+  <img src="https://img.shields.io/badge/Hack_The_Box-111927?style=for-the-badge&logo=hackthebox&logoColor=9FEF00" alt="Hack The Box">
+</a>
 
-## Contact Me
+<a href="https://tryhackme.com/p/Paabs">
+  <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe">
+</a>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/pablo-ortega-arenas/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3Bke8NsHzuQYawZXPf5%2FF1eg%3D%3D)
-[![Mail](https://img.shields.io/badge/email-red?style=for-the-badge&logo=Mail&logoColor=white)](mailto:developer@pibol.es)
+</div>
 
-<!--Visitor count<br>
-  <img src="https://profile-counter.glitch.me/portega017/count.svg" />-->
+## `contact`
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/pablo-ortega-arenas">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+
+<a href="mailto:developer@pibol.es">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+</a>
+
+<br><br>
+
+<sub>Learning, experimenting and building.</sub>
+
+</div>
