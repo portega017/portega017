@@ -8,7 +8,7 @@
 
 <br>
 
-![snake gif](https://github.com/portega017/portega017/blob/output/github-contribution-grid-snake.svg)
+
 
 
 <a href="https://github.com/portega017">
