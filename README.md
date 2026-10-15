@@ -2,18 +2,10 @@
 
 # `portega017`
 
-### Linux · Cybersecurity · Software Development
+<!-- ### Linux · Cybersecurity · Software Development -->
 
 *Learning, experimenting and building*
-
-<br>
-
-
-
-
-<a href="https://github.com/portega017">
-  <img src="https://img.shields.io/badge/GitHub-portega017-181717?style=for-the-badge&logo=github" alt="GitHub">
-</a>
+![Snake animation](https://raw.githubusercontent.com/portega017/portega017/output/github-contribution-grid-snake.svg)
 
 </div>
 
