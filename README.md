@@ -25,14 +25,14 @@ and building practical solutions.
 
 ### Languages & Development
 
-<img src="https://skillicons.dev/icons?i=python,java,c,cpp,js,html,css,swift,bootstrap,nodejs&perline=8" alt="Development technologies">
+<img src="https://skillicons.dev/icons?i=python,java,c,cpp,js,html,css,swift,bootstrap,nodejs&perline=5" alt="Development technologies">
 
 
 <br><br>
 
 ### Systems & Tools
 
-<img src="https://skillicons.dev/icons?i=linux,docker,raspberrypi,mysql,git,github,vscode,wordpress,aws,postgresql&perline=7" alt="Systems and tools">
+<img src="https://skillicons.dev/icons?i=linux,docker,raspberrypi,mysql,git,github,vscode,wordpress,aws,postgresql,apple,windows&perline=5" alt="Systems and tools">
 
 ### Top languages in my repos
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=portega017&layout=compact&theme=vision-friendly-dark&count_private=true&langs_count=100&hide_progress=true)](https://github.com/portega017)
