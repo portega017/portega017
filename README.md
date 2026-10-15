@@ -5,7 +5,7 @@
 <!-- ### Linux · Cybersecurity · Software Development -->
 
 *Learning, experimenting and building*
-![Snake animation](https://raw.githubusercontent.com/portega017/portega017/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/portega017/portega017/refs/heads/output/github-contribution-grid-snake.svg)
 
 </div>
 
