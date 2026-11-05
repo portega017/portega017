@@ -34,9 +34,9 @@ and building practical solutions.
 
 <img src="https://skillicons.dev/icons?i=linux,docker,raspberrypi,mysql,git,github,vscode,wordpress,aws,postgresql,apple,windows&perline=5" alt="Systems and tools">
 
-### Top languages in my repos
+<!-- ### Top languages in my repos
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=portega017&layout=compact&theme=vision-friendly-dark&count_private=true&langs_count=100&hide_progress=true)](https://github.com/portega017)
-</div>
+</div> -->
 
 ## `cybersecurity`
 
